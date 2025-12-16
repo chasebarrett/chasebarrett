@@ -59,10 +59,10 @@ Chrome extensions, Python utilities, and small experiments as I continue to expa
 ---
 
 ## 🚴‍♂️ Beyond Work
-Volunteer at Community Cycles in Boulder, CO; a 501(c)3 nonprofit promoting sustainable transportation 
-Avid volunteer with Catchafire; contributed $19,070 in pro bono services as of Fall 2025
-Fundraiser for the American Foundation for Suicide Prevention; $30,000 raised since 2019
-Regular volunteer at EFAA, Emergency Family Assistance Association, in Boulder, CO; 501(c)3 nonprofit which provides stablizing services to families in need
+- Volunteer at Community Cycles in Boulder, CO; a 501(c)3 nonprofit promoting sustainable transportation 
+- Avid volunteer with Catchafire; contributed $19,070 in pro bono services as of Fall 2025
+- Fundraiser for the American Foundation for Suicide Prevention; $30,000 raised since 2019
+- Regular volunteer at EFAA, Emergency Family Assistance Association, in Boulder, CO; 501(c)3 nonprofit which provides stablizing services to families in need
 
 ---
 
