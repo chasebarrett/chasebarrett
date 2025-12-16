@@ -12,7 +12,7 @@ I’ve also led and managed teams with direct reports, with a strong focus on me
 ## 🧭 What I Do
 - **eCommerce Systems Optimization** (Shopify, Magento, NetSuite, Celigo)  
 - **Process Automation & Integration Workflows**  
-- **Agile & Hybrid Project Management (PMP®)  
+- **Agile & Hybrid Project Management (PMP®)**  
 - **Product Data Governance & Quality Gate Design**  
 - **SEO & AI-Search Content Architecture**  
 - **Python & SQL for analysis, automation, and internal tooling**
