@@ -29,13 +29,13 @@ I care deeply about clarity, reliability, and removing friction from both user e
 
 ---
 
-## 🏗️ Featured Work (Coming Soon)
+## 🏗️ Featured Work
 I’m building a series of case-study repositories to document my technical and operational work:
 
 ### 📦 **SCARPA Integration & Systems Migration Case Study**
 How I reduced integration errors by 98.5% and improved cross-departmental workflows during a complex platform transition.
 
-### 🔍 **SEO + AI Search Overhaul Framework**
+### 🔍 **SEO + AI Search Project Framework**
 A scalable, AI-aligned content system used to improve visibility and consistency across 134 product pages.
 
 ### 🔁 **Celigo Returns Automation & Webhook Workflow**
