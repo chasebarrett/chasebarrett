@@ -5,7 +5,7 @@ I’m a systems thinker who loves untangling complexity, improving operational w
 
 I focus on turning fragmented processes into clean, reliable systems that teams can trust and businesses can scale on.
 
-I’ve also led and managed teams with direct reports, with a strong focus on mentorship, clarity, and professional development. I believe helping others grow — technically and personally — is one of the most meaningful responsibilities of leadership.
+I’ve also led and managed teams with direct reports, with a strong focus on mentorship, clarity, and professional development. I believe helping others grow — professionally and personally — is one of the most meaningful responsibilities of leadership.
 
 ---
 
@@ -60,7 +60,7 @@ Chrome extensions, Python utilities, and small experiments as I continue to expa
 
 ## 🚴‍♂️ Beyond Work
 - Volunteer at Community Cycles in Boulder, CO; a 501(c)3 nonprofit promoting sustainable transportation 
-- Avid volunteer with Catchafire; contributed $19,070 in pro bono services as of Fall 2025
+- Avid volunteer with Catchafire; contributed $19,070 in pro bono consulting services as of 2026
 - Fundraiser for the American Foundation for Suicide Prevention; $30,000 raised since 2019
 - Regular volunteer at EFAA, Emergency Family Assistance Association, in Boulder, CO; 501(c)3 nonprofit which provides stablizing services to families in need
 
