@@ -54,7 +54,7 @@ Chrome extensions, Python utilities, and small experiments as I continue to expa
 **Data & Analytics:** SQL, GA4, Google Merchant Center, Tableau  
 **Languages:** Python (beginner), JavaScript (beginner), Markdown  
 **PM Stack:** Jira, Confluence, Monday.com, Agile Scrum, Kanban  
-**Other:** SEO, Core Web Vitals, AI-assisted content tooling
+**Other:** SEO, Core Web Vitals, Conversion Rate Optimization (CRO), A/B Testing
 
 ---
 
