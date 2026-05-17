@@ -1,11 +1,11 @@
 # Hi, I'm Chase Barrett 👋  
-**PMP® certified Project Manager | eCommerce Systems Specialist | Operations & Automation Builder**
+**PMP® certified Project Manager | Six Sigma | eCommerce Specialist | Operations & Automation Builder**
 
 I’m a systems thinker who loves untangling complexity, improving operational workflows, and building scalable digital infrastructure. My background blends eCommerce, project management, automation, Agile project leadership, and technical problem-solving across platforms like Shopify, Magento, NetSuite, Akeneo PIM, Celigo, GA4, and Klaviyo.
 
 I focus on turning fragmented processes into clean, reliable systems that teams can trust and businesses can scale on.
 
-I’ve also led and managed teams with direct reports, with a strong focus on mentorship, clarity, and professional development. I believe helping others grow — professionally and personally — is one of the most meaningful responsibilities of leadership.
+I’ve also led and managed teams with up to 9 direct reports, with a strong focus on mentorship, clarity, and professional development. I believe helping others grow — professionally and personally — is one of the most meaningful responsibilities of leadership.
 
 ---
 
@@ -26,33 +26,33 @@ I care deeply about clarity, reliability, and removing friction from both user e
 - Using AI as a force multiplier for small teams: automation, documentation, and faster iteration without added headcount
 - Deeper integration of AI within project management tooling (planning, risk tracking, reporting, and stakeholder communication)
 - Governance, guardrails, and quality control for AI-assisted workflows in production environments
+- Completing CPMAI® certification coursework to formalize an applied-AI project management framework
 
 ---
 
 ## 🏗️ Featured Work
-I’m building a series of case-study repositories to document my technical and operational work:
+Case studies documenting how I approach operational and systems problems — favoring data modeling, native platform tools, and clean workflows over custom code and complexity.
 
-### 📦 **SCARPA Integration & Systems Migration Case Study**
-How I reduced integration errors by 98.5% and improved cross-departmental workflows during a complex platform transition.
+### [📦 **Magento–Celigo–NetSuite Customer Mapping Case Study**](https://github.com/chasebarrett/magento-celigo-integration)
+How a data-modeling–first fix to customer record mapping reduced sync errors 90%+ between Magento and NetSuite; no custom development involved.
 
-### 🔍 **SEO + AI Search Project Framework**
+### [🔍 **SEO + AI Search Project Framework**](https://github.com/chasebarrett/seo-ai-search-project)
 A scalable, AI-aligned content system used to improve visibility and consistency across 134 product pages.
 
-### 🔁 **Celigo Returns Automation & Webhook Workflow**
-Architecture + troubleshooting playbook for a Loop Returns → NetSuite automation pipeline.
+### [🔁 **Loop Returns Implementation: Shopify ↔ Loop ↔ Celigo ↔ NetSuite**](https://github.com/chasebarrett/loop-returns-celigo-integration)
+Cross-functional implementation case study covering integration architecture, warehouse-controlled receiving, and the change management decisions that enabled headcount reduction in Product Services during seasonal turnover.
 
-### 🧰 **Project Management Toolkit**
-Reusable PM templates, Agile artifacts, SOPs, RACI frameworks, and EVM cheat sheets.
+### [⚖️ **PFAS Checkout Guardrails: Compliance Automation in Shopify**](https://github.com/chasebarrett/pfas-checkout-guardrails)
+How product tagging and Shopify Flow automation reduced prohibited PFAS orders ~99% — solving a state regulatory compliance problem with native tools and zero custom code.
 
-### 🧪 **Prototypes & Experiments**
-Chrome extensions, Python utilities, and small experiments as I continue to expand my technical toolbox.
+### [📋 **Shopify Data Governance: Metafields, Markets & Matrixify**](https://github.com/chasebarrett/shopify_matrixify_data_structure)
+Internal documentation framework that prevents the most common Shopify data import failures — distinguishing native fields from metafields, governing market-specific pricing, and codifying safe Matrixify import patterns.
 
 ---
 
 ## 🔧 Tools & Technologies
 **Platforms:** Shopify, Magento, NetSuite, Akeneo, Celigo (integrator.io), Klaviyo  
 **Data & Analytics:** SQL, GA4, Google Merchant Center, Tableau  
-**Languages:** Python (beginner), JavaScript (beginner), Markdown  
 **PM Stack:** Jira, Confluence, Monday.com, Agile Scrum, Kanban  
 **Other:** SEO, Core Web Vitals, Conversion Rate Optimization (CRO), A/B Testing
 
@@ -70,7 +70,6 @@ Chrome extensions, Python utilities, and small experiments as I continue to expa
 - **LinkedIn:** https://www.linkedin.com/in/barrettchase/  
 - **Tableau:** https://public.tableau.com/app/profile/chase.barrett4129/vizzes
 - **Email:** cbarrett3521@gmail.com  
-- **Current GitHub Projects:** Check my pinned repositories below!  
 
 ---
 
